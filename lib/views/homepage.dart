@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:html_viewer/views/widgets/page_detail.dart';
 import '../bloc/page_bloc.dart';
-import '../bloc/page_event.dart';
 import '../bloc/page_state.dart';
 
 class Dashboard extends StatelessWidget {
